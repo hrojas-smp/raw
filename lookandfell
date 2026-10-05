@@ -1,0 +1,309 @@
+{
+  "custom_ui_enable" : true,
+  "custom_ui" : [
+    {
+      "item" : "home_operation_color",
+      "value" : "#E4002B",
+      "enable" : true
+    },
+    {
+      "item" : "home_amount_color",
+      "value" : "#33383E",
+      "enable" : true
+    },
+    {
+      "item" : "home_center_buys_color",
+      "value" : "#E4002B",
+      "enable" : true
+    },
+    {
+      "item" : "home_coin_color",
+      "value" : "#E4002B",
+      "enable" : true
+    },
+    {
+      "item" : "home_keyboard_container_color",
+      "value" : "#E4002B",
+      "enable" : true
+    },
+    {
+      "item" : "home_keyboard_number_color",
+      "value" : "#FFFFFF",
+      "enable" : true
+    },
+    {
+      "item" : "home_nav_icon_enable_color",
+      "value" : "#000000",
+      "enable" : true
+    },
+    {
+      "item" : "global_card_selected_background_color",
+      "value" : "#E4002B",
+      "enable" : true
+    },
+    {
+      "item" : "home_nav_icon_disable_color",
+      "value" : "#AAAAAA",
+      "enable" : true
+    },
+    {
+      "item" : "home_nav_background_color",
+      "value" : "#FFFFFF",
+      "enable" : true
+    },
+    {
+      "item" : "home_nav_icon_text_color",
+      "value" : "#E4002B",
+      "enable" : true
+    },
+    {
+      "item" : "home_sub_menu_text_color",
+      "value" : "#E4002B",
+      "enable" : true
+    },
+ {
+      "item" : "home_sub_menu_icon_color",
+      "value" : "#000000",
+      "enable" : true
+    },
+    {
+      "item" : "toolbar_background_color",
+      "value" : "#E4002B",
+      "enable" : true
+    },
+    {
+      "item" : "toolbar_ic_back_color",
+      "value" : "#000000",
+      "enable" : true
+    },
+    {
+      "item" : "merchant_title_text_color",
+      "value" : "#000000",
+      "enable" : true
+    },
+    {
+      "item" : "global_primary_text_color",
+      "value" : "#000000",
+      "enable" : true
+    },
+    {
+      "item" : "global_item_background_color",
+      "value" : "#FFFFFF",
+      "enable" : true
+    },
+    {
+      "item" : "global_primary_button_text_color",
+      "value" : "#000000",
+      "enable" : true
+    },
+    {
+      "item" : "global_primary_button_background_color",
+      "value" : "#FFF1E2",
+      "enable" : true
+    },
+    {
+      "item" : "global_icon_primary_color",
+      "value" : "#FFFFFF",
+      "enable" : true
+    },
+    {
+      "item" : "global_icon_primary_background_color",
+      "value" : "#D62E0F",
+      "enable" : true
+    },
+    {
+      "item" : "signature_title_text_color",
+      "value" : "#FFFFFF",
+      "enable" : true
+    },
+    {
+      "item" : "signature_container_background_color",
+      "value" : "#FFF1E2",
+      "enable" : true
+    },
+    {
+      "item" : "summary_item_title_payment_m_text_color",
+      "value" : "#000000",
+      "enable" : true
+    },
+    {
+      "item" : "summary_item_tip_background_color",
+      "value" : "#FFFFFF",
+      "enable" : true
+    },
+    {
+      "item" : "summary_item_selected_tip_background_color",
+      "value" : "#E4002B",
+      "enable" : true
+    },
+    {
+      "item" : "summary_item_disable_tip_background_color",
+      "value" : "#FFFFFF",
+      "enable" : true
+    },
+    {
+      "item" : "global_disabled_button_text_color",
+      "value" : "#AAAAAA",
+      "enable" : true
+    },
+    {
+      "item" : "global_disabled_button_background_color",
+      "value" : "#c8c8c8",
+      "enable" : true
+    },
+    {
+      "item" : "global_tertiary_text_color",
+      "value" : "#33383E",
+      "enable" : true
+    },
+    {
+      "item" : "global_selected_tertiary_text_color",
+      "value" : "#FFFFFF",
+      "enable" : true
+    },
+    {
+      "item" : "global_disable_tertiary_text_color",
+      "value" : "#C0C0C0",
+      "enable" : true
+    },
+    {
+      "item" : "global_secondary_text_color",
+      "value" : "#D62E0F",
+      "enable" : true
+    },
+    {
+      "item" : "global_disable_secondary_text_color",
+      "value" : "#C0C0C0",
+      "enable" : true
+    },
+    {
+      "item" : "global_selected_secondary_text_color",
+      "value" : "#FFFFFF",
+      "enable" : true
+    },
+    {
+      "item" : "total_summary_icon_print_color",
+      "value" : "#D62E0F",
+      "enable" : true
+    },
+    {
+      "item" : "global_printer_button_icon_text_color",
+      "value" : "#FFFFFF",
+      "enable" : true
+    },
+    {
+      "item" : "global_printer_button_background_color",
+      "value" : "#FFF1E2",
+      "enable" : true
+    },
+    {
+      "item" : "global_cancel_button_icon_text_color",
+      "value" : "#FFFFFF",
+      "enable" : true
+    },
+    {
+      "item" : "global_cancel_button_background_color",
+      "value" : "#E4002B",
+      "enable" : true
+    },
+    {
+      "item" : "global_checkout_button_icon_text_color",
+      "value" : "#FFFFFF",
+      "enable" : true
+    },
+    {
+      "item" : "global_checkout_button_background_color",
+      "value" : "#00AAA8",
+      "enable" : true
+    },
+    {
+      "item" : "global_reauthorization_button_icon_text_color",
+      "value" : "#FFFFFF",
+      "enable" : true
+    },
+    {
+      "item" : "global_reauthorization_button_background_color",
+      "value" : "#633F99",
+      "enable" : true
+    },
+    {
+      "item" : "global_input_primary_text_color",
+      "value" : "#000000",
+      "enable" : true
+    },
+    {
+      "item" : "filter_secondary_text_color",
+      "value" : "#633F99",
+      "enable" : true
+    },
+    {
+      "item" : "global_secondary_button_text_color",
+      "value" : "#000000",
+      "enable" : true
+    },
+    {
+      "item" : "global_secondary_button_background_color",
+      "value" : "#FFF1E2",
+      "enable" : true
+    },
+    {
+      "item" : "global_tertiary_button_text_color",
+      "value" : "#000000",
+      "enable" : true
+    },
+    {
+      "item" : "global_tertiary_button_background_color",
+      "value" : "#E4002B",
+      "enable" : true
+    },
+    {
+      "enable" : true,
+      "item" : "global_fourth_button_background_color",
+      "value" : "#FFF1E2"
+    }
+  ],
+  "custom_images_enable" : true,
+  "custom_images" : [
+    {
+      "item" : "image_toolbar_name",
+      "value" : "image_toolbar",
+      "url" : "https://raw.githubusercontent.com/Ceron0503/Litties-Pruebas/refs/heads/main/image%20(6).png",
+      "enable" : true
+    },
+    {
+      "item" : "image_ticket_stripe",
+      "value" : "image_stripe",
+      "url" : "",
+      "enable" : false
+    },
+    {
+      "item" : "image_watermark",
+      "value" : "image_watermark",
+      "url" : "",
+      "enable" : false
+    }
+  ],
+  "custom_animations_enable" : true,
+  "custom_animations" : [
+    {
+      "item": "animation_s1f4_pro",
+      "value": "",
+      "url_report": "",
+      "url_insert": "https://raw.githubusercontent.com/Ceron0503/Litties-Pruebas/refs/heads/main/x3.json",
+      "url_remove": "",
+      "url_loader": "https://raw.githubusercontent.com/Ceron0503/Litties-Pruebas/refs/heads/main/SPSv2",
+      "url_idle": "https://raw.githubusercontent.com/Ceron0503/Litties-Pruebas/refs/heads/main/kfc-animation-gif-download-9507478.json",
+      "url_approve": "https://raw.githubusercontent.com/Ceron0503/Litties-Pruebas/refs/heads/main/KFC%202.0.json",
+      "enable": true
+    }
+  ],
+    "custom_sound_enable": true,
+    "custom_sound": [
+    {
+      "item": "sound_s1f4_pro",
+      "value": "",
+      "url_approve": "https://github.com/Ceron0503/Litties-Pruebas/raw/refs/heads/main/KFC%20SOUND.wav",
+      "enable": true
+    }
+  ]
+}
